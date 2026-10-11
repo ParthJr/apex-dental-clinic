@@ -1,8 +1,0 @@
-{
-  "name": "Apex Dental Clinic | Kudasan, Gandhinagar",
-  "description": "Precision-focused modern dental clinic in Kudasan, Gandhinagar offering comprehensive oral health care, diagnostic imaging, and personalized treatment planning.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
